@@ -5,7 +5,7 @@ It was also a fun project to do in tandem with design 6 and building a google pa
 If you are a recruiter, I hope you enjoyed it
 If you are a regular person, your opinion on it does not really matter as much.
 
-Credits to the creator of the template that I used as a starting point:
+## Credits to the creator of the template that I used as a starting point:
 Read Only by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
