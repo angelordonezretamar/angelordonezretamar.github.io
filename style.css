@@ -52,3 +52,19 @@ body {
   font-size: 1.6rem;
   letter-spacing: 0.2rem;
 }
+
+/* trying to hide the scrollbar */
+::-webkit-scrollbar {
+    width: 0px;
+}
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: none;
+}
+::-webkit-scrollbar-thumb {
+    background: white;
+    -webkit-box-shadow: none;
+}
+
+::-webkit-scrollbar-thumb:window-inactive {
+    background: none;
+}
