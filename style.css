@@ -2,6 +2,7 @@ body {
   background: #040405;
   color: #fff;
   font-family: "Josefin Sans", sans-serif;
+  overflow: hidden;
 }
 
 .separator {
