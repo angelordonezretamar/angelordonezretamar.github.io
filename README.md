@@ -6,4 +6,5 @@ If you are a regular person, your opinion on it does not really matter as much.
 
 ## Credits to the creator of the template that I used as a starting point:
 A Pen created on CodePen.io. Original URL: [https://codepen.io/neoelemento/pen/bVZRRv](https://codepen.io/neoelemento/pen/bVZRRv).
+> source files are included in src folder
 
