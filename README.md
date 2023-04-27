@@ -1,4 +1,4 @@
-# My Web CV Github Repo
+# Web CV Github Repo
 a repo for my Web CV that is hosted using github pages. I made the site so that I could link it on my resume and show more projects that did not fit on my resume.
 It was also a fun project to do in tandem with design 6 and building a google pages site for our team project. If you are a recruiter, I hope you enjoyed it.
 If you are a regular person, your opinion on it does not really matter as much.
